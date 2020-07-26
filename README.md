@@ -1,2 +1,2 @@
 # 20200726_test
-private to public
+private to public (test)
